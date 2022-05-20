@@ -1,2 +1,3 @@
 # SignUp-SignIn-Form
-sign up &amp; sign in form using HTML &amp; CSS &amp; JS
+ - A sign up/sign in form built with HTML & CSS & JS
+ - Desktop Only
